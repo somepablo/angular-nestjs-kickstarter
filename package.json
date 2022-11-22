@@ -38,7 +38,7 @@
     "ts-node": "^8.6.0",
     "tsconfig-paths": "^3.9.0",
     "typescript": "~3.7.5",
-    "@angular-devkit/build-angular": "~0.900.5",
+    "@angular-devkit/build-angular": "~15.0.0",
     "@angular/cli": "~9.0.5",
     "@angular/compiler-cli": "~9.0.5",
     "@angular/language-service": "~9.0.5"
